@@ -69,8 +69,8 @@ int main(){
 			case 4:
 				case 5:{
 					 printf("Nhap gia tri can them: ");
-                scanf("%d", &x);
-                themVaoDau(a, &n, x);
+               
+               
 					break;
 				}
 					case 6:
